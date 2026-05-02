@@ -2,11 +2,12 @@
 
 Classroom management system built by our Team 4 Inspired by NetSupport School.
 
-# Our Team 
-# Ahmed maged motea yousif
-# Ahmed yasser shehata sultan 
-# Anas mohamed mohamed ahmed 
-# Saher ayman munir hassaballh 
+## 👥 Team Members
+
+- Ahmed Maged Motea Yousif  
+- Ahmed Yasser Shehata Sultan  
+- Anas Mohamed Mohamed Ahmed  
+- Saher Ayman Munir Hassaballh  
 
 ## 3 Apps
 
