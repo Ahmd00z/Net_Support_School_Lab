@@ -1,0 +1,78 @@
+{
+  "$id": "1",
+  "id": "MATH001",
+  "title": "اختبار الرياضيات - الفصل الأول",
+  "description": "اختبار في العمليات الحسابية الأساسية",
+  "subject": "الرياضيات",
+  "createdBy": "مدرس الرياضيات",
+  "createdAt": "2026-05-01T10:00:00",
+  "timeLimitMinutes": 20,
+  "questions": {
+    "$id": "2",
+    "$values": [
+      {
+        "$id": "3",
+        "id": "Q001",
+        "text": "ما ناتج 12 × 8؟",
+        "options": {
+          "$id": "4",
+          "$values": ["88", "96", "104", "112"]
+        },
+        "correctOptionIndex": 1,
+        "marks": 1,
+        "displayOrder": 1
+      },
+      {
+        "$id": "5",
+        "id": "Q002",
+        "text": "ما مساحة المستطيل طوله 10 سم وعرضه 5 سم؟",
+        "options": {
+          "$id": "6",
+          "$values": ["25 سم²", "50 سم²", "75 سم²", "100 سم²"]
+        },
+        "correctOptionIndex": 1,
+        "marks": 1,
+        "displayOrder": 2
+      },
+      {
+        "$id": "7",
+        "id": "Q003",
+        "text": "كم عدد أضلاع المثلث؟",
+        "options": {
+          "$id": "8",
+          "$values": ["2", "3", "4", "5"]
+        },
+        "correctOptionIndex": 1,
+        "marks": 1,
+        "displayOrder": 3
+      },
+      {
+        "$id": "9",
+        "id": "Q004",
+        "text": "ما ناتج 144 ÷ 12؟",
+        "options": {
+          "$id": "10",
+          "$values": ["10", "11", "12", "13"]
+        },
+        "correctOptionIndex": 2,
+        "marks": 1,
+        "displayOrder": 4
+      },
+      {
+        "$id": "11",
+        "id": "Q005",
+        "text": "أي من الأعداد التالية زوجي؟",
+        "options": {
+          "$id": "12",
+          "$values": ["13", "17", "21", "24"]
+        },
+        "correctOptionIndex": 3,
+        "marks": 1,
+        "displayOrder": 5
+      }
+    ]
+  },
+  "isActive": false,
+  "startedAt": null,
+  "endedAt": null
+}

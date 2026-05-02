@@ -1,0 +1,83 @@
+{
+  "$id": "1",
+  "id": "ARAB001",
+  "title": "اختبار اللغة العربية - النحو",
+  "description": "اختبار في قواعد النحو والإعراب",
+  "subject": "اللغة العربية",
+  "createdBy": "مدرس اللغة العربية",
+  "createdAt": "2026-05-01T10:00:00",
+  "timeLimitMinutes": 25,
+  "questions": {
+    "$id": "2",
+    "$values": [
+      {
+        "$id": "3",
+        "id": "Q001",
+        "text": "ما نوع كلمة (الطالب) في الجملة: جاء الطالبُ مبكراً؟",
+        "options": {
+          "$id": "4",
+          "$values": ["فاعل", "مفعول به", "خبر", "نعت"]
+        },
+        "correctOptionIndex": 0,
+        "marks": 1,
+        "displayOrder": 1
+      },
+      {
+        "$id": "5",
+        "id": "Q002",
+        "text": "أي من الكلمات التالية مؤنث؟",
+        "options": {
+          "$id": "6",
+          "$values": ["كتاب", "قلم", "شمس", "بيت"]
+        },
+        "correctOptionIndex": 2,
+        "marks": 1,
+        "displayOrder": 2
+      },
+      {
+        "$id": "7",
+        "id": "Q003",
+        "text": "ما جمع كلمة (كتاب)؟",
+        "options": {
+          "$id": "8",
+          "$values": ["كتابون", "كتب", "كتابات", "مكتبات"]
+        },
+        "correctOptionIndex": 1,
+        "marks": 1,
+        "displayOrder": 3
+      },
+      {
+        "$id": "9",
+        "id": "Q004",
+        "text": "أي من الجمل التالية صحيحة نحوياً؟",
+        "options": {
+          "$id": "10",
+          "$values": [
+            "ذهب الطالب إلى المدرسة",
+            "ذهبت الطالب إلى المدرسة",
+            "ذهب الطالبات إلى المدرسة",
+            "ذهبت الطلاب إلى المدرسة"
+          ]
+        },
+        "correctOptionIndex": 0,
+        "marks": 1,
+        "displayOrder": 4
+      },
+      {
+        "$id": "11",
+        "id": "Q005",
+        "text": "ما نوع (الم) في كلمة (الكتاب)؟",
+        "options": {
+          "$id": "12",
+          "$values": ["حرف جر", "أداة تعريف", "حرف عطف", "حرف نفي"]
+        },
+        "correctOptionIndex": 1,
+        "marks": 1,
+        "displayOrder": 5
+      }
+    ]
+  },
+  "isActive": false,
+  "startedAt": null,
+  "endedAt": null
+}
